@@ -5,10 +5,10 @@ import schedule
 import time
 
 # The user name and passwd
-#app key = 'hnwy uofq umvy vssd' beacaus gmail safe
+#app key = 'hnwy uofq umvy vkkd' beacaus gmail safe
 #its my example email that is set up and can work will get random photos
 user = "violetaaveniite@gmail.com"
-password = "hnwy uofq umvy vssd"
+password = "hnwy uofq umvy vkkd"
 
 # URL for IMAP connection
 imap_url = 'imap.gmail.com'
